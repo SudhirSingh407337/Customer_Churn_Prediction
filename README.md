@@ -88,7 +88,7 @@ Key findings include:
 ---
 
 ## Requirements
-- Python 3.x
+- Python 3
 - pandas
 - numpy
 - matplotlib
