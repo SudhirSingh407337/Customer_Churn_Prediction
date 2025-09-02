@@ -10,6 +10,8 @@ This project focuses on **predicting customer churn** using machine learning tec
 - 🎯 **Goal** – identify key churn factors and build an accurate prediction model for customer retention strategies
 
 ## Dataset
+[![Customer Churn Prediction Dataset Overview](https://img.youtube.com/vi/3Sux6WLawUg/0.jpg)](https://youtu.be/3Sux6WLawUg)
+
 The dataset contains information about customers, with the following features:
 
 - **Age**: Customer age in years
