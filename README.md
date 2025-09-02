@@ -12,6 +12,8 @@ This project focuses on **predicting customer churn** using machine learning tec
 ## Dataset
 [![Customer Churn Prediction Dataset Overview](https://img.youtube.com/vi/3Sux6WLawUg/0.jpg)](https://youtu.be/3Sux6WLawUg)
 
+🎥 [Customer Churn Prediction Dataset Video Overview](https://youtu.be/3Sux6WLawUg) 🎥
+
 The dataset contains information about customers, with the following features:
 
 - **Age**: Customer age in years
@@ -29,8 +31,12 @@ The dataset contains information about customers, with the following features:
 ---
 
 ## Key Techniques Implemented
+ **Data Exploration & Visualization**
 
-- **Data Exploration & Visualization**
+[![Customer Churn Prediction: Data Exploration & Visualization](https://img.youtube.com/vi/c-zy89CNPpk/0.jpg)](https://youtu.be/c-zy89CNPpk)
+
+🎥 [Customer Churn Prediction: Data Exploration & Visualization](https://youtu.be/c-zy89CNPpk) 🎥
+
   - Missing value analysis
   - Statistical summary of features
   - Correlation analysis between numerical features
@@ -38,7 +44,12 @@ The dataset contains information about customers, with the following features:
   - Churn rates by contract length and subscription type
   - Visualization of churn patterns across different customer segments
 
-- **Feature Engineering & Data Preprocessing**
+ **Feature Engineering & Data Preprocessing**
+
+[![Customer Churn Prediction Dataset: Feature Engineering & Data Processing](https://img.youtube.com/vi/-50hjH7Qglc/0.jpg)](https://youtu.be/-50hjH7Qglc)
+
+🎥 [Customer Churn Prediction Dataset: Feature Engineering & Data Processing](https://youtu.be/-50hjH7Qglc) 🎥
+ 
   - Label encoding of categorical features
   - Creation of time-based derived features:
     - Tenure-to-Age ratio
@@ -49,7 +60,12 @@ The dataset contains information about customers, with the following features:
   - Log transformation of skewed features
   - Feature scaling with `StandardScaler`
 
-- **Model Training & Evaluation**
+ **Model Training & Evaluation**
+
+[![Customer Churn Prediction: Model Training & Evaluation](https://img.youtube.com/vi/ycf3PcfZ4Mk/0.jpg)](https://youtu.be/ycf3PcfZ4Mk)
+
+🎥 [Customer Churn Prediction: Model Training & Evaluation](https://youtu.be/ycf3PcfZ4Mk) 🎥
+ 
   - Logistic Regression classifier
   - Random Forest classifier
   - Performance metrics:
@@ -57,7 +73,7 @@ The dataset contains information about customers, with the following features:
     - Detailed classification reports
   - Comparison of model performance across metrics
 
-- **Visualization of Results**
+ **Visualization of Results**
   - Churn distribution analysis
   - Effect of categorical features on churn
   - Correlation matrix heatmap
