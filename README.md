@@ -7,7 +7,7 @@ This project focuses on **predicting customer churn** using machine learning tec
 - 🛠 **Feature Engineering** – creating time-based features, encoding categorical variables, and applying transformations
 - 📊 **Data Transformation** – applying log transformation to handle skewed features
 - 🤖 **Predictive Modeling** – comparing Logistic Regression and Random Forest models
-- 🎯 **Goal** – identify key churn factors and build an accurate prediction model for customer retention strategies
+- 🎯 **Goal** – identify key churn factors and build an accurate prediction models for customer retention strategies
 
 ## Dataset
 [![Customer Churn Prediction Dataset Overview](https://img.youtube.com/vi/3Sux6WLawUg/0.jpg)](https://youtu.be/3Sux6WLawUg)
